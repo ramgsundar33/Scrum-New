@@ -7,7 +7,7 @@ You might have heard of the **Agile Development** term already. So in this tutor
 # What do we mean by Agile development?
 Agile is a different approach to software development which replaces the old school *Waterfall* software development process.
 
-![Agile vs Waterfall](https://github.com/imalitavakoli/learn-scrum/blob/master/images/Agile-vs-Waterfall.png)
+![Agile vs Waterfall]((https://github.com/ramgsundar33/Scrum-New/blob/main/Agile-vs-Waterfall.png)
 
 **In Waterfall you would consider the whole project at the beginning** and do the following step by step: *Analyze*, *design*, *code* and *test*.  
 Each of these steps should be completely done before you proceed to the next one. But the problem with this process is that when a change happens at the middle of the project then you will face huge problems, as you didn't have any plans for it!
