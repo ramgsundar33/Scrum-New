@@ -52,7 +52,7 @@ Now Scrum aims to fix these issues:
 
 
 # Scrum team major players
-![Scrum team major players](https://github.com/imalitavakoli/learn-scrum/blob/master/images/Scrum-team-major-players.png)
+![Scrum team major players](https://github.com/ramgsundar33/Scrum-New/blob/main/Scrum-team-major-players.png)
 
 - **Product owner**: She is responsible for the overall project. She decides which features are important and prioritize the tasks that developers need to work on. She also may be a point of contact for stakeholders and tries to maximize the value of the project.
 
@@ -126,7 +126,7 @@ Now in order to understand our velocity, estimate how much time each story may t
 ## What is Burndown Chart?
 **It's a chart that shows us our speed of development in a sprint**.
 
-![Burndown Chart](https://github.com/imalitavakoli/learn-scrum/blob/master/images/Burndown-Chart.png)
+![Burndown Chart](https://github.com/ramgsundar33/Scrum-New/blob/main/Burndown-Chart.png)
 
 So as an example imagine we have a *5 day sprint* that *10 points* need to be done within it. We Simply draw the chart for it and then show our actual speed of development(red) and the ideal speed(green) with two lines on the chart.  
 At the conclusion of each day, a team member volunteers to calculate the remaining points and draw the actual speed of development line(the red line) on the chart. And yes, finding the remaining points is an easy work if all of the developers move their own stories from column to column as they get finished on the board.
@@ -155,7 +155,7 @@ Imagine we have a board that consist of 4 main columns:
 
 As each sprint starts, some stories will be moved to 'Sprint Backlog' from the 'Product Backlog' and all of those in the 'Sprint Backlog' should be moved to the 'Done' column.
 
-![Planning Board](https://github.com/imalitavakoli/learn-scrum/blob/master/images/Planning-Board.png)
+![Planning Board](https://github.com/ramgsundar33/Scrum-New/blob/main/Planning-Board.png)
 
 
 ## 'Working On' Column:  
